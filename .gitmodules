@@ -1,0 +1,6 @@
+[submodule "ClientSocket"]
+	path = ClientSocket
+	url = https://github.com/DevOpRohan/ClientSocket.git
+[submodule "ServerSocket"]
+	path = ServerSocket
+	url = https://github.com/DevOpRohan/ServerSocket.git
